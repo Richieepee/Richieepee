@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-<h2>📺 Certifications</h2> (https://drive.google.com/file/d/1y0Ay41PFDLcwvjtpprYHO3V7_brylJT2/view?usp=sharing)
 <h2>📺 Certifications</h2> (https://drive.google.com/file/d/1y0Ay41PFDLcwvjtpprYHO3V7_brylJT2/view?usp=drive_link)
 <h2>📺 Certifications</h2> (https://drive.google.com/file/d/1xrzXXEZIKVAtLpRnidkgkcl6QKDumHPv/view?usp=drive_link)
 <h2>📺 Certifications</h2> (https://drive.google.com/file/d/1u4dkJA2zLBcSAXlitnS8hpkAaeeMtRO7/view?usp=drive_link)
