@@ -1,4 +1,4 @@
-<h1>Hi, I'm Richard! "Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">
+<h1>Hi, I'm Richard! "Cybersecurity Professional</a>, <>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
