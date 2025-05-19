@@ -2,6 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+[Brief Introduction]
+
+I am a recent graduatwe with a profound interest in technology and a dedication to solving complex problems. 
+
+### Objective 
+
+I have developed a passion for cyberrsecurity,  and i am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+
+### Skills 
+
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Certifications</h2> (https://drive.google.com/file/d/1y0Ay41PFDLcwvjtpprYHO3V7_brylJT2/view?usp=drive_link)
 <h2>📺 Certifications</h2> (https://drive.google.com/file/d/1xrzXXEZIKVAtLpRnidkgkcl6QKDumHPv/view?usp=drive_link)
