@@ -12,6 +12,19 @@ I have developed a passion for cyberrsecurity,  and i am now eager to transition
 
 ### Skills 
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+### Tools 
+
+
+
   - [Active Directory Home Lab]
 <h2>📺 Certifications</h2> (https://drive.google.com/file/d/1y0Ay41PFDLcwvjtpprYHO3V7_brylJT2/view?usp=drive_link)
 <h2>📺 Certifications</h2> (https://drive.google.com/file/d/1xrzXXEZIKVAtLpRnidkgkcl6QKDumHPv/view?usp=drive_link)
