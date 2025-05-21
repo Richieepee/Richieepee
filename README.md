@@ -1,10 +1,9 @@
-<h1>Hi, I'm Richard! "Cybersecurity Professional Analyst</a>, 
+<h1>Hi, I'm Richard! "Cybersecurity Professional Analyst</a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-[Brief Introduction]
 
-I am a recent graduatwe with a profound interest in technology and a dedication to solving complex problems. 
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. 
 
 ### Objective 
 
